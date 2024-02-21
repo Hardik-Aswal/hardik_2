@@ -7,7 +7,7 @@ body {
 /* About Me Section */
 .about-me {
     border: 2pt solid black;
-    background-color: lightcoral;
+    background-color: yellow;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -17,7 +17,7 @@ body {
 .profile-info {
     font-family: 'Times New Roman', serif;
     font-size: 13pt;
-    font-weight: bold;
+    
     text-align: left;
 }
 
@@ -62,14 +62,15 @@ body {
     border: 3pt solid;
     padding: 10px;
 }
+.autumn-semester {
+    background-color: lightpink;
+}
+
 
 .spring-semester {
     background-color: lightgreen;
 }
 
-.autumn-semester {
-    background-color: lightpink;
-}
 
 .courses a {
     color: blue;
